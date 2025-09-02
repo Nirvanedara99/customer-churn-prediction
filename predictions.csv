@@ -1,0 +1,4 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn_Prediction,Churn_Probability
+7590-VHVEG,Female,0,Yes,No,1,No,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,29.85,29.85,1,0.5094568941778153
+5575-GNVDE,Male,0,No,No,34,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,One year,Yes,Mailed check,56.95,1889.5,0,0.21810267015034154
+3668-QPYBK,Male,0,No,No,2,Yes,No,Fiber optic,Yes,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,53.85,108.15,0,0.4811329920782381
