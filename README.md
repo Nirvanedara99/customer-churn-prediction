@@ -1,23 +1,3 @@
-
-# Customer Churn Prediction
-
-**Project structure**:
-```
-customer-churn-prediction/
-├── data/               # Put dataset here: Telco-Customer-Churn.csv
-├── models/             # saved model & preprocessors
-├── notebooks/          # optional EDA notebooks
-├── src/
-│   ├── preprocessing.py
-│   ├── train.py
-│   ├── evaluate.py
-│   ├── explain.py
-│   ├── predict.py
-│   └── __init__.py
-├── requirements.txt
-└── pipeline.py
-```
-
 ## Quick start
 1. Place the CSV dataset in `data/` named exactly:
    `data/Telco-Customer-Churn.csv`
