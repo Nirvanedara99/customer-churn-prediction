@@ -27,7 +27,3 @@ python src/predict.py --json '{"tenure":12,"MonthlyCharges":70,"Contract":"Month
   - SHAP-based explainability (summary plot saved)
   - CLI prediction script
 - `models/` will contain `preprocessor.joblib` and `best_model.joblib` after running.
-
-## Notes
-- This project expects the Telco dataset (standard public dataset). Filename must match.
-- If you want deployment (Flask/Streamlit), tell me and I will add a minimal app.
