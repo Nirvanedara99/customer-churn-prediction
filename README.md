@@ -108,6 +108,9 @@ Best model is automatically selected based on performance metrics.
 **Example results on test data:**
 
 Accuracy: 87%
+
 Precision: 82%
+
 Recall: 79%
+
 F1-score: 80%
